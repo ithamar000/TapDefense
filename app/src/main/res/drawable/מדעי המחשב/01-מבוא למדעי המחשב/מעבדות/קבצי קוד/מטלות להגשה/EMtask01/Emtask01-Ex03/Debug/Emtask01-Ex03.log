@@ -1,0 +1,6 @@
+﻿  Ex03.c
+c:\users\elira\desktop\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\מטלות להגשה\emtask01\emtask01-ex03\ex03.c(15): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\elira\desktop\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\מטלות להגשה\emtask01\emtask01-ex03\ex03.c(32): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\elira\desktop\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\מטלות להגשה\emtask01\emtask01-ex03\ex03.c(34): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\elira\desktop\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\מטלות להגשה\emtask01\emtask01-ex03\ex03.c(35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Emtask01-Ex03.vcxproj -> C:\Users\elira\Desktop\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\מטלות להגשה\EMtask01\Debug\Emtask01-Ex03.exe

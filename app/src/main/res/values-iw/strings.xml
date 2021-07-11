@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TapDefense</string>
+    <string name="txt_easy">קל</string>
+    <string name="txt_normal">בינוני</string>
+    <string name="txt_hard">קשה</string>
+    <string name="txt_music">מוסיקה</string>
+    <string name="txt_sound">צלילי מקשים</string>
+    <string name="explanation" >לחץ על המפלצות כדי להרוג אותן\n
+    השתמש בפצצות וקרח אם אתה בצרה! \n
+    היזהר! ככל שהמשחק מתקדם כך גם רמת הקושי עולה!</string>
+
+    <string name="credits">פותח על ידי אלירן מלכא ואיתמר יעקובי</string>
+
+</resources>

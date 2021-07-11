@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="250dp"
+    android:layout_height="500dp"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:background="@drawable/bg_new"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/listView_highScores"
+        android:layout_margin="30dp"
+        >
+
+    </ListView>
+
+
+
+    <!--  <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+
+    </ListView>
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/st_one"
+    android:text="@string/one"
+    android:layout_margin="10dp"
+    style="@style/btn_menu_style"
+    />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/st_one_score"
+        android:text="0"
+        android:layout_margin="10dp"
+        style="@style/btn_menu_style"
+        android:layout_toEndOf="@id/st_one"
+        />
+-->
+</RelativeLayout>

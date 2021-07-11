@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="150dp"
+    android:layout_height="150dp"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:background="@drawable/bg_new"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tV_music"
+        android:text="@string/txt_music"
+        android:layout_margin="10dp"
+        style="@style/btn_menu_style"
+        />
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/iV_music"
+        android:src="@drawable/music"
+        android:layout_marginBottom="10dp"
+        android:layout_toEndOf="@id/tV_sound"
+        android:layout_toRightOf="@id/tV_sound"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tV_sound"
+        android:layout_below="@id/tV_music"
+        android:text="@string/txt_sound"
+        android:layout_marginEnd="10dp"
+        android:layout_marginTop="5dp"
+        style="@style/btn_menu_style"
+        />
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/iV_sound"
+        android:layout_below="@id/tV_music"
+        android:layout_toEndOf="@id/tV_sound"
+        android:src="@drawable/sound" />
+</RelativeLayout>

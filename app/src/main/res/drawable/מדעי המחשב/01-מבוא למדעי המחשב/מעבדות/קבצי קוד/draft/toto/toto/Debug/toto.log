@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\elira\desktop\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\draft\toto\toto\main.c(8): error C2143: syntax error: missing ':' before '}'
+c:\users\elira\desktop\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\draft\toto\toto\main.c(8): error C2059: syntax error: '}'
+c:\users\elira\desktop\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\draft\toto\toto\main.c(12): error C2079: 'Beitar' uses undefined struct 'team'
+c:\users\elira\desktop\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\draft\toto\toto\main.c(13): error C2224: left of '.fitness' must have struct/union type
+c:\users\elira\desktop\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\draft\toto\toto\main.c(14): error C2224: left of '.gardes' must have struct/union type
+c:\users\elira\desktop\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\draft\toto\toto\main.c(14): error C2059: syntax error: '{'

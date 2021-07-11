@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="false">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            android:shape="rectangle">
+
+            <corners
+                android:bottomRightRadius="10dp"
+                android:topLeftRadius="10dp"
+                android:radius="18dp" />
+
+            <gradient
+                android:angle="45"
+                android:centerX="1.0"
+                android:centerY="1.0"
+                android:endColor="@color/btnEnd"
+                android:gradientRadius="10dp"
+                android:startColor="@color/btnStart"
+                android:type="linear" />
+
+
+            <size
+                android:width="82dp"
+                android:height="41dp" />
+
+            <!--Use android:dashWidth="2dp" and android:dashGap="2dp"
+            to add dashes to your stroke-->
+            <stroke
+                android:width="2dp"
+                android:color="#FFFFFF" />
+
+            <!--If you want to add padding-->
+            <!-- <padding
+                 android:left="10dp"
+                 android:top="20dp"
+                 android:right="40dp"
+                 android:bottom="8dp" />-->
+
+
+        </shape>
+    </item>
+    <item android:state_pressed="true">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            android:shape="rectangle">
+
+            <corners
+                android:bottomRightRadius="10dp"
+                android:topLeftRadius="10dp"
+                android:radius="18dp" />
+
+            <gradient
+                android:angle="45"
+                android:centerX="1.0"
+                android:centerY="1.0"
+                android:endColor="@color/btnEndPressed"
+                android:gradientRadius="10dp"
+                android:startColor="@color/btnStartPressed"
+                android:type="linear" />
+
+            <!--If your shape requires only one solid color-->
+            >solid
+                android:color="#FFFFFF" />
+
+            <size
+                android:width="82dp"
+                android:height="41dp" />
+
+            <!--Use android:dashWidth="2dp" and android:dashGap="2dp"
+            to add dashes to your stroke-->
+            <stroke
+                android:width="2dp"
+                android:color="#FFFFFF" />
+
+            <!--If you want to add padding-->
+            <!-- <padding
+                 android:left="10dp"
+                 android:top="20dp"
+                 android:right="40dp"
+                 android:bottom="8dp" />-->
+
+
+        </shape>
+    </item>
+</selector>

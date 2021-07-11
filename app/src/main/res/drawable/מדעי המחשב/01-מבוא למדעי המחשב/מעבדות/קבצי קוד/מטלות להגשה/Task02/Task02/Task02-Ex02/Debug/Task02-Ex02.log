@@ -1,0 +1,5 @@
+﻿  Ex2.c
+c:\users\elira\desktop\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\מטלות להגשה\task02\task02\task02-ex02\ex2.c(16): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\elira\desktop\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\מטלות להגשה\task02\task02\task02-ex02\ex2.c(26): warning C4013: 'free' undefined; assuming extern returning int
+c:\users\elira\desktop\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\מטלות להגשה\task02\task02\task02-ex02\ex2.c(36): warning C4013: 'calloc' undefined; assuming extern returning int
+  Task02-Ex02.vcxproj -> C:\Users\elira\Desktop\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\מטלות להגשה\Task02\Task02\Debug\Task02-Ex02.exe

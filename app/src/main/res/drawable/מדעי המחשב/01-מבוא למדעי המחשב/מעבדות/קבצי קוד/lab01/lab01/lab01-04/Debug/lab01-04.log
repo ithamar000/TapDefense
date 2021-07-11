@@ -1,0 +1,15 @@
+﻿  main.c
+c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab01\lab01\lab01-04\main.c(7): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab01\lab01\lab01-04\main.c(7): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab01\lab01\lab01-04\main.c(7): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab01\lab01\lab01-04\main.c(7): note: this argument is used as a buffer size
+c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab01\lab01\lab01-04\main.c(8): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab01\lab01\lab01-04\main.c(8): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab01\lab01\lab01-04\main.c(8): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab01\lab01\lab01-04\main.c(8): note: this argument is used as a buffer size
+c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab01\lab01\lab01-04\main.c(9): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab01\lab01\lab01-04\main.c(9): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab01\lab01\lab01-04\main.c(9): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab01\lab01\lab01-04\main.c(9): note: this argument is used as a buffer size
+c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab01\lab01\lab01-04\main.c(12): warning C4013: 'system' undefined; assuming extern returning int
+  lab01-04.vcxproj -> C:\Users\elira\OneDrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab01\lab01\Debug\lab01-04.exe

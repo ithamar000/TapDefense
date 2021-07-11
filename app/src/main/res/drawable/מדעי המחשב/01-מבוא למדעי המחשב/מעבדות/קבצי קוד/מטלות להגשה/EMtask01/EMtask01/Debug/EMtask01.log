@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (EMtask01.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  EX01.c
+c:\users\elira\desktop\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\מטלות להגשה\emtask01\emtask01\ex01.c(27): warning C4013: 'system' undefined; assuming extern returning int
+  EMtask01.vcxproj -> C:\Users\elira\Desktop\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\מטלות להגשה\EMtask01\Debug\EMtask01-Ex01.exe

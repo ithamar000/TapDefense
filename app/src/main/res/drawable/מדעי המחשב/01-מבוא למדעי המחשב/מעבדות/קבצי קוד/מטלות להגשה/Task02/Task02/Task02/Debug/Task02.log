@@ -1,0 +1,7 @@
+﻿  EX1.c
+c:\users\elira\desktop\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\מטלות להגשה\task02\task02\task02\ex1.c(11): warning C4013: 'Ex01' undefined; assuming extern returning int
+c:\users\elira\desktop\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\מטלות להגשה\task02\task02\task02\ex1.c(12): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\elira\desktop\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\מטלות להגשה\task02\task02\task02\ex1.c(24): warning C4013: 'free' undefined; assuming extern returning int
+c:\users\elira\desktop\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\מטלות להגשה\task02\task02\task02\ex1.c(33): warning C4013: 'calloc' undefined; assuming extern returning int
+EX1.obj : error LNK2019: unresolved external symbol _Ex01 referenced in function _main
+C:\Users\elira\Desktop\επ≥Θ Σετ∙ß\01-εßσα ∞επ≥Θ Σετ∙ß\ε≥ßπσ·\≈ß÷Θ ≈σπ\εΦ∞σ· ∞ΣΓ∙Σ\Task02\Task02\Debug\Task02-Ex01.exe : fatal error LNK1120: 1 unresolved externals

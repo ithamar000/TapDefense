@@ -1,0 +1,8 @@
+﻿  main.c
+c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab05\lab05\eliranp\main.c(25): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab05\lab05\eliranp\main.c(30): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab05\lab05\eliranp\main.c(34): warning C4028: formal parameter 1 different from declaration
+c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab05\lab05\eliranp\main.c(34): warning C4028: formal parameter 2 different from declaration
+c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab05\lab05\eliranp\main.c(34): warning C4028: formal parameter 3 different from declaration
+c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab05\lab05\eliranp\main.c(34): warning C4028: formal parameter 4 different from declaration
+  eliranP.vcxproj -> C:\Users\elira\OneDrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab05\lab05\Debug\eliranP.exe

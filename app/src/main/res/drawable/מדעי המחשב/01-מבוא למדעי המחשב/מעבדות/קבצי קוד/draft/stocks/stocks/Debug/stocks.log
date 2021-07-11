@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\elira\desktop\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\draft\stocks\stocks\main.c(10): warning C4013: 'system' undefined; assuming extern returning int
+  stocks.vcxproj -> C:\Users\elira\Desktop\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\draft\stocks\Debug\stocks.exe

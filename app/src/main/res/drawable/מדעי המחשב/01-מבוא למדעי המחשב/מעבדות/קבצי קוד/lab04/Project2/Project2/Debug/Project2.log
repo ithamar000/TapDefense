@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab04\project2\project2\main.c(7): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab04\project2\project2\main.c(12): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab04\project2\project2\main.c(15): warning C4013: 'getch' undefined; assuming extern returning int
+c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab04\project2\project2\main.c(7): error C4700: uninitialized local variable 'num' used

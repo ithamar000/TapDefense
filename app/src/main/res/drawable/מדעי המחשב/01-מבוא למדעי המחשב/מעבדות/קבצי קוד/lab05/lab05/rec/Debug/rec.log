@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab05\lab05\rec\main.c(6): warning C4013: 'paw' undefined; assuming extern returning int
+c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab05\lab05\rec\main.c(7): warning C4013: 'system' undefined; assuming extern returning int
+  rec.vcxproj -> C:\Users\elira\OneDrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab05\lab05\Debug\rec.exe

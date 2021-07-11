@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\elira\onedrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab07\lab07\test02\main.c(12): warning C4013: 'system' undefined; assuming extern returning int
+  test02.vcxproj -> C:\Users\elira\OneDrive\שולחן העבודה\מדעי המחשב\01-מבוא למדעי המחשב\מעבדות\קבצי קוד\lab07\lab07\Debug\test02.exe

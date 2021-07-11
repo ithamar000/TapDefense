@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" >TapDefense</string>
+    <string name="txt_easy">Easy</string>
+    <string name="txt_normal">Normal</string>
+    <string name="txt_hard">Hard</string>
+    <string name="txt_music">Music</string>
+    <string name="txt_sound">Key sound</string>
+    <string name="explanation" >Tap the monsters to kill them!\n
+    Use Bombs and Ice in if things gets rough! \n
+    Be careful! the longer you play the harder it gets!</string>
+
+    <string name="credits">Developed by Eliran Malka and Itamar Yacoby</string>
+
+
+    <string name="one" translatable="false">1st</string>
+    <string name="two" translatable="false">2st</string>
+    <string name="three" translatable="false">3st</string>
+    <string name="four" translatable="false">4st</string>
+    <string name="five" translatable="false">5st</string>
+
+
+</resources>
